@@ -1,0 +1,12 @@
+body {
+    font-family:Arial;
+    text-algin:center;
+    backgroung:10px;
+}
+
+input {
+    background:10px;
+    padding:20px;
+    color:white;
+    margin-border:15px;
+}
